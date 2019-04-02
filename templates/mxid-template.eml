@@ -9,12 +9,12 @@ Content-Disposition: inline
 
 Hello!
 
-%SENDER_NAME_OR_ID% invites you to the following secure EEA chat room:
+%SENDER_NAME_OR_ID% invites you to the following secure Fastdigitech chat room:
 
 Room name: %ROOM_NAME%
-Room URL: MXISD_RIOT_URL/#/room/%ROOM_ID% (login with your Eionet account)
+Room URL: MXISD_RIOT_URL/#/room/%ROOM_ID% (login with your FDT account)
 
-Enjoy EEA Riot!
+Enjoy using Riot!
 MXISD_RIOT_URL
 When privacy matters!
 
@@ -60,11 +60,11 @@ pre, code {
                 <td id="inner">
 <p>Hello,</p>
 
-<p>%SENDER_NAME_OR_ID% invites you to the following secure EEA chat room:</p>
+<p>%SENDER_NAME_OR_ID% invites you to the following secure Fastdigitech chat room:</p>
 
 <p>Room name: %ROOM_NAME_OR_ID%<br/>
-Room URL: <a href="MXISD_RIOT_URL/#/room/%ROOM_ID%">MXISD_RIOT_URL/#/room/%ROOM_ID%</a> (login with your Eionet account)</p>
-<p>Enjoy EEA Riot!<br/>
+Room URL: <a href="MXISD_RIOT_URL/#/room/%ROOM_ID%">MXISD_RIOT_URL/#/room/%ROOM_ID%</a> (login with your FDT account)</p>
+<p>Enjoy Riot!<br/>
 <a href="MXISD_RIOT_URL">MXISD_RIOT_URL</a><br/>
 When privacy matters!</p>
                 </td>
