@@ -2,17 +2,6 @@
 
 Docker image for https://github.com/kamax-io/mxisd with added EEA LDAP configurations.
 
-## Supported tags and respective Dockerfile links
-
- - [Tags](https://hub.docker.com/r/eeacms/matrix-mxisd/tags/)
-
-## Base docker image
-
- - [eeacms/matrix-mxisd](https://hub.docker.com/r/eeacms/matrix-mxisd/)
-
-## Source code
-
- - [eea/eea.docker.matrix.mxisd](http://github.com/eea/eea.docker.matrix.mxisd)
 
 ## Usage
 
