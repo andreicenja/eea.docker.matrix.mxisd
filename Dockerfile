@@ -7,3 +7,4 @@ COPY templates /templates
 
 CMD ["/start.sh"]
 ENTRYPOINT ["/docker-entrypoint.sh"]
+ 
